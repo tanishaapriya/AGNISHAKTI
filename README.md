@@ -1,8 +1,8 @@
-# AgniSetu - AI-Powered Fire Detection and Alert System
+# AgniShakti - AI-Powered Fire Detection and Alert System
 
 ## 🔥 Project Overview
 
-**AgniSetu** (meaning "Fire Bridge" in Sanskrit) is a comprehensive, AI-powered fire safety system that uses computer vision (YOLOv8) and Google Gemini AI to identify fire and smoke in real-time through camera feeds. When fire or smoke is detected, the system automatically verifies with Gemini AI, then alerts property owners and nearby fire stations via email, enabling rapid emergency response.
+**AgniShakti** (meaning "Fire Bridge" in Sanskrit) is a comprehensive, AI-powered fire safety system that uses computer vision (YOLOv8) and Google Gemini AI to identify fire and smoke in real-time through camera feeds. When fire or smoke is detected, the system automatically verifies with Gemini AI, then alerts property owners and nearby fire stations via email, enabling rapid emergency response.
 
 ### Key Features
 - 🎥 **Real-time Fire Detection**: Uses YOLOv8 custom-trained model (confidence > 0.75) to detect fire and smoke
